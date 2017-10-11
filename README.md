@@ -3,11 +3,11 @@ This paper presents a method to measure what and how deep the user can perceive 
 
 The source project of user study and personalized storyboard demo can be found in [Bitbucket Repository](https://bitbucket.org/Honglei_Han/viewguideuserstudyvrlimitedsize).
 
-Here is the [executable program]()
+Here is the [executable program](https://github.com/hanhonglei/VRViewGuide/blob/master/UserStudyAppliction.zip)
 
-Here is the [completed user study results]()
+Here is the [complete user study results](https://github.com/hanhonglei/VRViewGuide/tree/master/UserStudyResult)
 
-And here is the [introduction video]()
+And here is the [introduction video](https://github.com/hanhonglei/VRViewGuide/blob/master/IntroductionVideo.mp4)
 
 ----
 
